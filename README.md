@@ -41,11 +41,11 @@
 ### :computer: Programming languages and tools: 
 <p>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/html/html-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <!--Include sklearn-->  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/css/css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -56,7 +56,7 @@
 
 ## :headphones: Spotify
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5acZuTakrvkqnvnF2StyXd?si=a2fcfa76abcf428f)
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4esRKYQrPcYuJbouusZEAD?si=i4V9v08JQ82jJnpuzISfWA&nd=1)
 
 ----
 Last Edited on: 11/07/2021
