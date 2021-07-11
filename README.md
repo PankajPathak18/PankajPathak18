@@ -24,9 +24,9 @@
 
 **About Me!**
 
-- 💻 I’m interested in Web Development and AI applications.
+- 💻 I’m interested in Web Development and Backend Projcts.
 - 🌱 I’m currently learning Python Hacks.
-- 💞️ I’m looking to collaborate on Computer Vision and Web Designing related projects.
+- 💞️ I’m looking to collaborate on Computer Vision , Backend Project Operator and Web Designing related projects.
 - 📫 Reach me: pankajpathak0755@gmail.com
 
 
