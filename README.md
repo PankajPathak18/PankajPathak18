@@ -25,7 +25,7 @@
 **About Me!**
 
 - 💻 I’m interested in Web Development and Backend Projcts.
-- 🌱 I’m currently learning Python Hacks.
+- 🌱 I’m currently learning SAP ABAP.
 - 💞️ I’m looking to collaborate on Computer Vision , Backend Project Operator and Web Designing related projects.
 - 📫 Reach me: pankajpathak0755@gmail.com
 
@@ -59,4 +59,4 @@
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4esRKYQrPcYuJbouusZEAD?si=i4V9v08JQ82jJnpuzISfWA&nd=1)
 
 ----
-Last Edited on: 11/07/2021
+Last Edited on: 16/09/2021
