@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/pathak.pankaj.31/">
   <img align="left" alt="Pankaj Pathak Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.blogger.com/blog/posts/2933464460165585523/">
+<a href="https://pankajpathakstory.blogspot.com/?m=1/">
   <img align="left" alt="Pankaj Pathak Blogging" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
