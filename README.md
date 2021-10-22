@@ -9,7 +9,9 @@
 <a href="https://www.facebook.com/pathak.pankaj.31/">
   <img align="left" alt="Pankaj Pathak Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<a href="https://www.blogger.com/blog/posts/2933464460165585523/">
+  <img align="left" alt="Pankaj Pathak Blogging" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+</a>
 
 
 
@@ -59,4 +61,4 @@
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4esRKYQrPcYuJbouusZEAD?si=i4V9v08JQ82jJnpuzISfWA&nd=1)
 
 ----
-Last Edited on: 16/09/2021
+Last Edited on: 22/10/2021
