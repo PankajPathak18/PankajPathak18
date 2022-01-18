@@ -27,7 +27,7 @@
 **About Me!**
 
 - 💻 I’m interested in lspt.
-- 🌱 I’m currently learning advance advance java concepts.
+- 🌱 I’m currently learning advance java concepts.
 - 💞️ I’m looking to collaborate on Computer Vision , Backend Project Operator and Web Designing related projects.
 - 📫 Reach me: pankajpathak0755@gmail.com
 
